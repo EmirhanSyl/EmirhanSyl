@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emirhan Soylu</h1>
 <h3 align="center">Founder/CEO of the BlackFlower Games Company & Game Lover <3</h3>
 
-<a href="https://blackflowergames.com" target="_blank" rel="noreferrer"> <img src="https://blackflowergames.com/wp-content/uploads/2021/12/Site-Slider-2.gif" alt="BlackFlower Games" height="400"/> </a>
+<a href="https://blackflowergames.com" target="_blank" rel="noreferrer"> <img src="https://blackflowergames.com/wp-content/uploads/2021/12/Site-Slider-2.gif" alt="BlackFlower Games"/> </a>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirhansyl" alt="emirhansyl" /></a> </p>
 
