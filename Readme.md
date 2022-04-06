@@ -3,7 +3,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirhansyl" alt="emirhansyl" /></a> </p>
 
-- 🔭 I’m currently working on [Crazy Micro Game](*Private*)
+- 🔭 I’m currently working on Crazy Micro Game
 
 - 🌱 I’m currently learning **Kali Linux**
 
