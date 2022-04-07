@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Crazy Micro Game**
 
-- 🌱 I’m currently learning **Kali Linux**
+- 🌱 I’m currently learning **Kali Linux & Aseprite** 
 
 - 💬 Ask me about **Unity & C#**
 
