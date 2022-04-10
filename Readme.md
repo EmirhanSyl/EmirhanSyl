@@ -6,7 +6,8 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirhansyl" alt="emirhansyl"/></a> </p>
 
-- 🔭 I’m currently working on **Crazy Micro Game**
+- 🔭 I’m currently working on **Crazy Micro Game** 
+![KatanaAttackLeft_Boy](https://user-images.githubusercontent.com/61618968/162619794-f96ff008-dde0-434c-9b25-1522d6f03414.gif)
 
 - 🌱 I’m currently learning **Kali Linux & Aseprite** 
 
@@ -19,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emirhan-soylu-423930219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirhan-soylu" height="30" width="40" /></a>
+
 <a href="https://stackoverflow.com/users/14447498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14447498" height="30" width="40" /></a>
 </p>
 
