@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emirhan Soylu</h1>
 <h3 align="center">Founder/CEO of the BlackFlower Games Company & Game Lover <3</h3>
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirhansyl" alt="emirhansyl" /></a> </p>
+  ![Site Slider (2)](https://user-images.githubusercontent.com/61618968/162619599-11eb9958-c032-45da-bcca-90eb184d574f.gif)
+
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirhansyl" alt="emirhansyl"/></a> </p>
 
 - 🔭 I’m currently working on **Crazy Micro Game**
 
