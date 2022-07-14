@@ -6,7 +6,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirhansyl" alt="emirhansyl"/></a> </p>
 
-- 🔭 I’m currently working on **Crazy Micro Game** 
+- 🔭 I’m currently working on **Puddie Game** 
 ![KatanaAttackLeft_Boy](https://user-images.githubusercontent.com/61618968/162619794-f96ff008-dde0-434c-9b25-1522d6f03414.gif)
 
 - 🌱 I’m currently learning **Kali Linux & Aseprite** 
