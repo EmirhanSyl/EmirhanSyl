@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emirhan Soylu</h1>
-<h3 align="center">Founder/CEO of BlackFlower Games & Game Lover <3</h3>
+<h3 align="center">Founder/CEO of BlackFlower Games & Tech Lover <3</h3>
   
   ![Site Slider (2)](https://user-images.githubusercontent.com/61618968/162619599-11eb9958-c032-45da-bcca-90eb184d574f.gif)
 
