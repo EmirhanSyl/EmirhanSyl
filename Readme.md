@@ -4,7 +4,7 @@
   ![Site Slider (2)](https://user-images.githubusercontent.com/61618968/162619599-11eb9958-c032-45da-bcca-90eb184d574f.gif)
 
 # 💫 About Me:
-🔭 I’m currently working on Mayadem Games <br>🌱 I’m currently learning game, web, AI development and cyber security
+🔭 I’m currently working on some project ideas. <br>🌱 I’m currently learning about the tech world. Game, app, web, AI development, cyber security, Arduino, Raspberry, Deneyap card and more!
 
 
 ## 🌐 Socials:
